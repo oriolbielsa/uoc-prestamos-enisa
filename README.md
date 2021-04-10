@@ -4,6 +4,7 @@
 ## **Descripción**
 
 El objetivo de este proyecto es analizar la evolución de la empresas a las que **Enisa**, entidad pública dependiente del Ministerio de Industria, Comercio y Turismo, concede **financiación para impulsar su actividad emprendedora**.
+
 Se ha aplicado web scraping usando distintos recursos y técnicas de diversas fuentes, resultando en un dataset final con información de las empresas receptoras de estos préstamos por tal de facilitar análisis o estudios posteriores.
 
 ## **Miembros del equipo**
