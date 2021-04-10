@@ -1,5 +1,4 @@
-# prestamos-enisa
-# **UOC - Tipologia y Ciclo de vida de los datos - PRAC1**
+# **Tipologia y Ciclo de vida de los datos - PRAC1: Web Scraping**
 
 ## **Descripción**
 
