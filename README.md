@@ -3,15 +3,11 @@
 
 ## **Descripción**
 
-El objetivo de este proyecto es analizar la evolución de la empresas a las que **Enisa**, entidad pública dependiente del Ministerio de Industria, Comercio y Turismo, concede **financiación para impulsar su actividad emprendedora**. 
-
-(PENDIENTE COMPLETAR)
+El objetivo de este proyecto es analizar la evolución de la empresas a las que **Enisa**, entidad pública dependiente del Ministerio de Industria, Comercio y Turismo, concede **financiación para impulsar su actividad emprendedora**.
+Se ha aplicado web scraping usando distintos recursos y técnicas de diversas fuentes, resultando en un dataset final con información de las empresas receptoras de estos préstamos por tal de facilitar análisis o estudios posteriores.
 
 ## **Miembros del equipo**
-
-*Victor María Cardoner Alvarez*
-
-*Jose Oriol Bielsa Nogaledo*.
+La práctica ha sido implementada por *Victor María Cardoner Alvarez* y *Jose Oriol Bielsa Nogaledo*.
 
 ## **Ficheros de código fuente**
 
@@ -26,3 +22,4 @@ El objetivo de este proyecto es analizar la evolución de la empresas a las que 
 ## **Recursos**
 
 1. Mitchel, R. (2015). *Web Scraping with Python: Collecting Data from the Modern Web. O'Reilly Media, Inc. Chapter 1. Your First Web Scraper.*
+(COMPLETAR)
